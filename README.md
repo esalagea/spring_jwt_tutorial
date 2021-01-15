@@ -23,4 +23,4 @@ with JSON request body:
 
 Send a get request to http://localhost:8080/hello using Authorization header with value: 
 
-`Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlbWlsIiwiZXhwIjoxNjEwNjU1OTU0LCJpYXQiOjE2MTA2Mzc5NTR9.6BQ6Hy5KM2jazfytrNIf5oifE28yTd6JmTayDEQuKVJSKVD85a9YOj_N7_q7qpnmbf5SLJY3nH8YkhiENAie_g`
+`Bearer <Token received in the authentication reply>`
